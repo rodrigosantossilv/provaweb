@@ -1,0 +1,109 @@
+.container{
+  background-color: rgb(255, 255, 255);
+}
+.carousel-inner{
+    background-color: #F5F7FA;
+}
+.green-text {
+    color: green;
+    white-space: nowrap;
+
+  }
+  .btn1{
+    background-color: green;
+    color: #F5F7FA;
+    margin-left: 200px ;
+  }
+  .text1{
+    margin-left: 200px;
+    margin-top: 90px;
+    font-size: 45px; /* Altere o valor conforme necessário */
+
+  }
+  .textp{
+    margin-left: 200px;
+  }
+  .textpo{
+    margin-top: 300px;
+    text-align: center;
+    font-size: 34px; /* Altere o valor conforme necessário */
+
+  }
+  .text2{
+    text-align: center;
+    margin-top:  80px;
+  }
+
+.text5{
+    margin-top: 130px;
+    font-size:36px;
+    margin-right: 10px;
+}
+.textp2{
+    font-size: 14px;
+    color: #717171;  ;
+}
+.btn2{
+    background-color:  #4CAF4F;
+    color:#F5F7FA;
+}
+
+.img3{
+    margin-top: 40px;
+}
+
+.textt {
+  margin-top: 40px;
+  margin-left: 90px;
+}
+.pg4, .pg4 .col-6, .pg4 .col-6 .container, .pg4 .col-6 .row {
+  background-color: #F5F7FA;
+}
+
+.textp3{
+  margin-left: 90px ;
+}
+.textp7{
+    margin-top: 100px;
+    font-size: 14px;
+}
+.custom-bg,.col-22 {
+  background-color: #F5F7FA;
+}
+.text09{
+  margin-top: 50px;
+}
+.pallentesque{
+  padding-top: 200px;
+  font-size: 64px;
+}
+.col-0{
+  background-color: #F5F7FA;
+}
+.btn2{
+  background-color: green;
+  color: #F5F7FA;
+  margin-left: 14px ;
+}
+footer {
+  background-color: #263238; /* Cor de fundo */
+  color: #fff; /* Cor do texto */
+  padding: 20px; /* Espaçamento interno */
+}
+footer img {
+  width: 30px; /* largura das imagens */
+  height: auto; /* altura automática para manter a proporção */
+  margin: 0 5px; /* margem entre as imagens */
+
+}
+footer .logo-empresa {
+  width: auto; /* largura automática para manter o tamanho original */
+  height: auto; /* altura automática para manter o tamanho original */
+
+}
+.footerpt1{
+  text-align: start;
+}
+.textpt1{
+  margin-left: 40px;
+}
